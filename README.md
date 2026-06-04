@@ -58,22 +58,22 @@ Plataforma híbrida (Python backend + Angular dashboard) que automatiza a **conc
 ## 📈 Resultados
 
 ### Dashboard AR/AP Executivo
-![Reconciliation Dashboard](assets/screenshots/01-reconciliation-dashboard.png)
+![Dashboard Executivo](assets/screenshots/01-dashboard-executivo.png)
 
 ### Aging de Contas
-![Aging](assets/screenshots/02-aging-chart.png)
+![Aging de Contas](assets/screenshots/02-aging-contas.png)
 
 ### Curva ABC
-![ABC](assets/screenshots/03-abc-chart.png)
+![Curva ABC](assets/screenshots/03-curva-abc.png)
 
 ### Matriz de Risco
-![Risk Matrix](assets/screenshots/04-risk-matrix.png)
+![Matriz de Risco](assets/screenshots/04-matriz-risco.png)
 
 ### Conciliação Bancária
-![Bank Reconciliation](assets/screenshots/06-bank-reconciliation.png)
+![Conciliação Bancária](assets/screenshots/05-conciliacao-bancaria.png)
 
 ### Diagrama de Arquitetura
-![Architecture](assets/diagrams/05-architecture-diagram.png)
+![Diagrama de Arquitetura](assets/screenshots/06-diagrama-arquitetura.png)
 
 > *Métricas baseadas em deployment em controlleria de holding multissetorial.*
 
