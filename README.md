@@ -58,7 +58,7 @@ Plataforma híbrida (Python backend + Angular dashboard) que automatiza a **conc
 ## 📈 Resultados
 
 ### Dashboard AR/AP Executivo
-![Dashboard AR/AP](assets/screenshots/01-ar-ap-dashboard.png)
+![Reconciliation Dashboard](assets/screenshots/01-reconciliation-dashboard.png)
 
 ### Aging de Contas
 ![Aging](assets/screenshots/02-aging-chart.png)
