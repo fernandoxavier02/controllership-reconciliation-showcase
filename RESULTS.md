@@ -35,14 +35,16 @@ Tempo de auditoria:      ███████░░░░░░░░░░░�
 
 ## Screenshots
 
-### Dashboard AR/AP Executivo
-![Dashboard](assets/screenshots/01-ar-ap-dashboard.png)
+> As imagens abaixo são geradas sinteticamente para demonstração visual — nenhum dado real de cliente é exposto.
+
+### Dashboard Executivo AR/AP
+![Dashboard Executivo](assets/screenshots/01-dashboard-executivo.png)
 
 ### Aging de Contas
-![Aging](assets/screenshots/02-aging-chart.png)
+![Aging de Contas](assets/screenshots/02-aging-contas.png)
 
 ### Curva ABC
-![ABC](assets/screenshots/03-abc-chart.png)
+![Curva ABC](assets/screenshots/03-curva-abc.png)
 
 ### Matriz de Risco
-![Risk](assets/screenshots/04-risk-matrix.png)
+![Matriz de Risco](assets/screenshots/04-matriz-risco.png)
