@@ -8,13 +8,17 @@
 
 ---
 
+*Como Head de Contabilidade e Controladoria, liderei a automação de conciliação contábil e bancária na operação. Esta vitrine demonstra o domínio do problema e o resultado de negócio — o sistema de produção é proprietário e confidencial.*
+
+---
+
 ## 🎯 O Problema de Negócio
 
 Empresas de médio e grande porte processam **milhares de lançamentos contábeis mensais** entre:
 
 - **Accounts Receivable (AR)** — clientes, notas fiscais de saída, recebimentos
 - **Accounts Payable (AP)** — fornecedores, notas fiscais de entrada, pagamentos
-- **Extratos Bancários** — múltiplos bancos (BMG, Citi, etc.) com formatos diferentes
+- **Extratos Bancários** — múltiplos bancos com formatos diferentes
 - **Saldos do Razão (GL)** — a fonte de verdade contábil
 
 **O gap:** Em média, **15-25% dos lançamentos** não possuem suporte documental completo, **10% dos saldos bancários** divergem do razão, e a **classificação de risco** é feita intuitivamente pelo controller — sem metodologia padronizada.
@@ -43,15 +47,6 @@ Plataforma híbrida (Python backend + Angular dashboard) que automatiza a **conc
 | **Análise Temporal** | Evolução mensal de saldos e movimentações | Tendências visíveis |
 | **Tipos de Documento** | Top 15 tipos de documento por volume | Padronização fiscal |
 | **Conciliação Bancária** | Match automático entre extrato e razão (multi-banco) | Fechamento bancário em < 1h |
-
-### Tecnologia
-
-- **Frontend:** Angular 17.3 + TypeScript 5.4 + RxJS 7.8 + Tailwind CSS
-- **Backend:** Python 3.11 + Pandas + csv-parse
-- **ETL:** Pipeline de 8 arquivos CSV com normalização e validação
-- **Containerização:** Docker para isolamento de ambientes
-- **Dados:** CSV gerados pelo backend, consumidos pelo frontend em build-time
-- **Filtros de Negócio:** Regras contábeis hardcoded (ex: AP = prefixo 2.1.01.01.01)
 
 ---
 
@@ -139,10 +134,22 @@ O sistema de produção é **proprietário, licenciado comercialmente e confiden
 
 ---
 
+<details>
+<summary><sub>Stack técnico (para avaliadores técnicos)</sub></summary>
+
+- **Frontend:** Angular 17.3 + TypeScript 5.4 + RxJS 7.8 + Tailwind CSS
+- **Backend:** Python 3.11 + Pandas
+- **ETL:** Pipeline de arquivos CSV com normalização e validação
+- **Containerização:** Docker
+
+</details>
+
+---
+
 ## 📬 Contato
 
 **Fernando Xavier**  
-Finance Executive & AI Solutions Architect  
+Head of Accounting & Controlling · Finance Executive & Founder @ FX Studio AI  
 CRC · ACCA Cert IFR · FMVA (CFI) · MBA Engenharia de Soluções com IA (USP/Esalq, em andamento)  
 São Paulo, BR · PT / EN (C2) / ES (C1)  
 
